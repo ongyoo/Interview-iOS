@@ -1,6 +1,6 @@
 # Project: Find the 2nd Largest Even Number 
 
-# Description:
+# Description
 
 Create an app where the user enters a list of numbers in a UITextField (separated by commas). The app will then find the second largest even number in the list.
 
